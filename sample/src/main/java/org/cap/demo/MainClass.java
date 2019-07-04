@@ -10,4 +10,6 @@ public class MainClass {
 		public static void display()
 		{
 			System.out.println("hello");
+			System.out.println("hello this is java");
+			System.out.println("java full stack");
 }}
